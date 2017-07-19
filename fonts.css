@@ -1,0 +1,29 @@
+p {
+  font: 120% sans-serif small-caps;
+/* small-caps debería estar al principio */
+    font-size: 20px
+}
+.contacto h2{
+    color: cornflowerblue;
+    text-shadow: 1px 1px black;
+    }
+.contenido h2{
+    color: cornflowerblue;
+    text-shadow: 1px 1px black;
+    }
+.contacto{
+    text-transform:uppercase; 
+    }
+.contenido{
+/*    text-transform: uppercase;*/
+}
+html h1{
+  font: italic;
+    
+}
+
+
+
+.cajas h2{
+  color: rgb(11, 11, 11);
+ text-shadow: 0px 0px 3px rgb(0, 0, 0);
